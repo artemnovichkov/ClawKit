@@ -16,6 +16,8 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey.svg" alt="MIT License"></a>
 </p>
 
+https://github.com/user-attachments/assets/3682c754-5d21-4133-8949-8316fb124fd9
+
 ## How to Play
 
 Half-fold the device and stand it on a table like a small laptop. Now it's an arcade cabinet.
