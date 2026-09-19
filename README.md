@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src=".github/images/clawKit-book.png" width="700" alt="The ClawKit machine on one half of an iPhone Duo in the simulator, with a joystick and a Run button on the other half">
+  <a href=".github/images/demo.mp4"><img src=".github/images/demo.gif" width="400" alt="Demo: the claw machine above the fold of a half-folded iPhone Duo and the controls below it. The claw wins a prize, then the device closes and the outer display shows the prize shelf"></a>
 </p>
 
 ## How to Play
@@ -29,6 +29,12 @@ Half-fold the device and stand it on a table like a small laptop. Now it's an ar
 - The **bug** crawls away from the claw. It's a bug, after all.
 - **Fold or unfold quickly** to shake the machine: Clean Build Folder.
 - **Close the device** to see your shelf on the outer display.
+
+In book pose, the machine and the controls sit side by side:
+
+<p align="center">
+  <img src=".github/images/clawKit-book.png" width="600" alt="The ClawKit machine on one half of an iPhone Duo in book pose, with a joystick and a Run button on the other half">
+</p>
 
 ## Prizes
 

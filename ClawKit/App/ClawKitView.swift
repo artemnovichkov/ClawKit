@@ -21,12 +21,12 @@ struct ClawKitView: View {
 
     var body: some View {
         // The arcade stays alive under the shelf, so the machine is just as you left it.
-        arcade
-            .overlay {
-                if hinge?.status == .closed {
-                    ShelfView(shelf: shelf)
-                }
+        ZStack {
+            arcade
+            if hinge?.status == .closed {
+                ShelfView(shelf: shelf)
             }
+        }
         // 👇 The API: the hinge drives interactions, not layout.
         .onHingeChange { oldContext, newContext in
             hinge = newContext.hinge
