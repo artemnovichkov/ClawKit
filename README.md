@@ -16,7 +16,9 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightgrey.svg" alt="MIT License"></a>
 </p>
 
-https://github.com/user-attachments/assets/3682c754-5d21-4133-8949-8316fb124fd9
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/3682c754-5d21-4133-8949-8316fb124fd9" width="400" controls></video>
+</p>
 
 ## How to Play
 
